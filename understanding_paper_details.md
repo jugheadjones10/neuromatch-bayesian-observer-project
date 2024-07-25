@@ -5,3 +5,6 @@ Subjects tend to bias their estimates towards the prior mean.
 This effect is stronger for smaller prior standard deviations.
 
 "All probability distributions were computed over directions ranging from 1 to 360 discretized to 1"
+
+Check the way your von mises is defined
+Create columns for different kappa values
